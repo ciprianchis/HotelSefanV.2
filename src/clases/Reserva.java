@@ -1,4 +1,5 @@
 package clases;
+//Juan
 
 public class Reserva {
 	private int codigoReserva;
